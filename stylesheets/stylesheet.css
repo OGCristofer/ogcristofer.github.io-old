@@ -1,6 +1,6 @@
 body {
-  margin: 100%;
-  padding: 100%;
+  margin: 0%;
+  padding: 0%;
   background-image:linear-gradient(blue,orange);
   width:50%;height:50%;
   background-repeat:no-repeat;
@@ -14,7 +14,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 50px;
+  max-width: 600px;
   margin: 0 auto;;
 }
 
