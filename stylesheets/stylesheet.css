@@ -2,7 +2,7 @@ body {
   margin: 100%;
   padding: 100%;
   background-image:linear-gradient(blue,orange);
-  width:50%;height:500%;
+  width:50%;height:50%;
   background-repeat:no-repeat;
   font: 16px;
   line-height: 1.5;
