@@ -41,8 +41,8 @@ header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed #b5e853;
-  padding: 20px 0;
-  margin: 40 20 40px 10;
+  padding: 20px 10;
+  margin: 40 20 40px;
 }
 
 header h1 {
