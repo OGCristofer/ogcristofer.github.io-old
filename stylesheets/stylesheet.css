@@ -42,7 +42,7 @@ header {
   width: 100%;
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
-  margin: 0 0 40px 0;
+  margin: 40 20 40px 10;
 }
 
 header h1 {
