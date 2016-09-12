@@ -13,18 +13,18 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 90%;
-  max-width: 600px;
-  margin: 0 auto;;
+  width: auto;
+  max-width: auto;
+  margin: auto;
 }
 
 section {
   display: block;
-  margin: 0 0 auto;
+  margin: auto auto auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 auto;
+  margin: auto auto auto;
 }
 
 li {
@@ -41,14 +41,14 @@ header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed #b5e853;
-  padding: 20px 10;
-  margin: 40 20 40px;
+  padding: auto;
+  margin: auto auto auto;
 }
 
 header h1 {
   font-size: 30px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0 0 auto;
   font-weight: bold;
   font-family: 'Lato', sans-serif;
   font-weight: 400;
