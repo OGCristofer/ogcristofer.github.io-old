@@ -1,0 +1,8 @@
+title: www.ogcristofer.com
+description: I saw my friend (@Jamen Marz) was hosting his files on GitHub, so I wanted to too.
+google_analytics: UA-68480733-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
